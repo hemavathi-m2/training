@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "city": "Gwenborough"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "city": "Wisokyburgh"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "city": "McKenziehaven"
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "city": "South Elvis"
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "city": "Roscoeview"
+    },
+    {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "city": "South Christy"
+    },
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "city": "Howemouth"
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "city": "Aliyaview"
+    },
+    {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "city": "Bartholomebury"
+    },
+    {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "city": "Lebsackbury"
+    }
+]
